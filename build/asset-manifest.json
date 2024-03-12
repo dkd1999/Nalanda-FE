@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.900be590.css",
+    "main.js": "/static/js/main.e4337385.js",
+    "static/js/787.ab677fc7.chunk.js": "/static/js/787.ab677fc7.chunk.js",
+    "static/media/wallpaperflare.com_wallpaper.jpg": "/static/media/wallpaperflare.com_wallpaper.aaf69a6a9454e172186a.jpg",
+    "index.html": "/index.html",
+    "main.900be590.css.map": "/static/css/main.900be590.css.map",
+    "main.e4337385.js.map": "/static/js/main.e4337385.js.map",
+    "787.ab677fc7.chunk.js.map": "/static/js/787.ab677fc7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.900be590.css",
+    "static/js/main.e4337385.js"
+  ]
+}
